@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './App.css';
-import { Container, Typography, Box } from '@material-ui/core';
+import { Container, Box } from '@material-ui/core';
 import Navbar from './Layout/Navbar';
 import Title from './components/Title';
 import ButtonGroupType from './components/ButtonGroupType';
